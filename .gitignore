@@ -11,3 +11,6 @@ factories
 package-lock.json
 
 .env
+
+__pycache__
+input.py

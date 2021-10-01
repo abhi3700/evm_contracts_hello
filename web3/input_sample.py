@@ -1,0 +1,10 @@
+INFURA_PROJECT_ID = 'FILL_YOUR_KEY'
+
+# Networks
+# Rinkeby
+NETWORK = 'rinkeby'
+PRIVATE_KEY = 'FILL_YOUR_PRIVATE_KEY'
+
+# ETH mainnet
+# NETWORK = 'mainnet'
+PRIVATE_KEY = 'FILL_YOUR_PRIVATE_KEY'
